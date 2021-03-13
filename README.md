@@ -7,4 +7,4 @@ when you click generate password you can do the following:
 * make a password between 8 to 128 characters long.
 
 It creates a password based off of what the user desires based off what they select
-The commands for yes or no can be either "yes" "y" "n" "no".
+
